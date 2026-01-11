@@ -1,6 +1,6 @@
 🌱 I’m currently learning ...Python 😅
 
-Ambitious young/old up and coming dev with sights set on both My Fitness Pal and Duolingo, to kill them (I mean kill their popularity). Currently doing a self study course I designed with Grok.
+Ambitious young/old up and coming dev with sights set on both My Fitness Pal and Duolingo, to kill them (I mean kill their popularity). Currently doing a self study course I designed with Grok. I'm also a former tester with credits on several older 2K sports video games.
 
 <!--
 **the-converter-523/the-converter-523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
